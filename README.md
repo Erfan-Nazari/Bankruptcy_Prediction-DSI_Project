@@ -3,6 +3,22 @@
 ## Project Overview
 This project focuses on analyzing car sales data to derive business insights and build predictive models. We are addressing key business questions to help automotive dealerships and manufacturers optimize their operations, marketing strategies, and pricing models based on data-driven insights.
 
+
+Below is the main directory structure for our project. You can click on each folder link to navigate directly to that part of the repository:
+
+- [data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data)
+  - [processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/processed)
+  - [raw/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/raw)
+  - [sql/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/sql)
+- [experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/experiments)
+- [models/](models)
+- [reports/](reports)
+- [src/](src)
+- README.md
+- .gitignore
+
+
+
 ## Business Case and Value
 ### Our project focuses on three key business questions related to car sales:
 
