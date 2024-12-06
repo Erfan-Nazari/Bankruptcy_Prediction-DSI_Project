@@ -1,10 +1,18 @@
-# DSI_Team_Project-Car_Sales_Report :red_car: :bar_chart:
+# DSI_Team_Project-Bankruptcy_Prediction: :bar_chart:
 
 ## Project Overview
-This project focuses on analyzing car sales data to derive business insights and build predictive models. We are addressing key business questions to help automotive dealerships and manufacturers optimize their operations, marketing strategies, and pricing models based on data-driven insights.
+[This project focuses on analyzing car sales data to derive business insights and build predictive models. We are addressing key business questions to help automotive dealerships and manufacturers optimize their operations, marketing strategies, and pricing models based on data-driven insights.]
 
-
-Below is the main directory structure for our project. You can click on each folder link to navigate directly to that part of the repository:
+## Context
+The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
+## Attribute Information
+ Updated column names and description to make the data easier to understand (Y = Output feature, X = Input features)
+## Source
+Deron Liang and Chih-Fong Tsai, deronliang '@' gmail.com; cftsai '@' mgt.ncu.edu.tw, National Central University, Taiwan
+The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
+## Relevant Papers
+Liang, D., Lu, C.-C., Tsai, C.-F., and Shih, G.-A. (2016) Financial Ratios and Corporate Governance Indicators in Bankruptcy Prediction: A Comprehensive Study. European Journal of Operational Research, vol. 252, no. 2, pp. 561-572.
+https://www.sciencedirect.com/science/article/pii/S0377221716000412
 
 - [data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data)
   - [processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/processed)
