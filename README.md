@@ -1,24 +1,21 @@
 # DSI_Team_Project-Bankruptcy_Prediction: :bar_chart:
 
+This repository contains the implementation of a machine learning project to classify companies as "Bankrupt" or "Not Bankrupt" based on financial indicators. The dataset used for this project is sourced from Kaggle.
+
 ## Project Overview
-[This project focuses on analyzing car sales data to derive business insights and build predictive models. We are addressing key business questions to help automotive dealerships and manufacturers optimize their operations, marketing strategies, and pricing models based on data-driven insights.]
+The goal of this project is to predict the likelihood of a company's bankruptcy using various financial ratios and indicators. The dataset spans data from 1999 to 2009 and includes 95 features, offering rich insights into financial health and corporate governance.
+The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange. The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
 
-## Context
-The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
-## Attribute Information
- Updated column names and description to make the data easier to understand (Y = Output feature, X = Input features)
-## Source
-Deron Liang and Chih-Fong Tsai, deronliang '@' gmail.com; cftsai '@' mgt.ncu.edu.tw, National Central University, Taiwan
-The data was obtained from UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Taiwanese+Bankruptcy+Prediction
-## Relevant Papers
-Liang, D., Lu, C.-C., Tsai, C.-F., and Shih, G.-A. (2016) Financial Ratios and Corporate Governance Indicators in Bankruptcy Prediction: A Comprehensive Study. European Journal of Operational Research, vol. 252, no. 2, pp. 561-572.
-https://www.sciencedirect.com/science/article/pii/S0377221716000412
 
-- [data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data)
-  - [processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/processed)
-  - [raw/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/raw)
-  - [sql/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/data/sql)
-- [experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Car_Sales_Report/tree/main/experiments)
+
+
+
+
+- [data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data)
+  - [processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/processed)
+  - [raw/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/raw)
+  - [best_model/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/best_model)
+- [experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/experiments)
 - [models/](models)
 - [reports/](reports)
 - [src/](src)
@@ -28,22 +25,31 @@ https://www.sciencedirect.com/science/article/pii/S0377221716000412
 
 
 ## :moneybag: Business Case and Value
-### Our project focuses on three key business questions related to car sales:
 
-#### Predicting Car Body Style Preference: :red_car:
+Corporate bankruptcy prediction is a critical aspect of financial risk management for businesses, investors, and financial institutions. This project aims to provide a robust and interpretable framework for identifying early warning signs of financial distress in companies, enabling stakeholders to make informed decisions.
 
-Question: Can we predict which category of car (e.g., SUV vs. Sedan) a customer is likely to purchase based on demographic factors and historical purchase data?
 
-Business Value: By understanding which demographic factors influence the purchase of different car categories, businesses can better tailor their marketing efforts and inventory planning. For instance, if certain regions or income levels are more likely to buy SUVs, dealerships can optimize their stock and promotions to meet this demand, leading to increased sales and customer satisfaction.
 
-#### Predicting Best-Selling Car Models: :star2:
+#### Business Case:
 
-Question: Can we predict whether a particular car model will be a "best-seller" (yes/no) based on features, historical sales data, and marketing efforts?
+Early Risk Detection: Bankruptcy prediction models can help businesses identify potential financial risks early, allowing for timely interventions and strategic adjustments.
+Investors and lenders can use such models to assess the creditworthiness of companies before extending loans or investing capital.
 
-Business Value: Identifying the features and conditions that make a car model a best-seller allows businesses to improve marketing strategies, adjust pricing models, and focus resources on cars that are more likely to perform well in the market. This reduces wasted marketing budgets and improves profitability.
+Efficient Resource Allocation: Financial institutions can prioritize resources for companies showing signs of distress and develop customized support strategies to mitigate potential losses.
 
-#### Price Estimation for Cars: :moneybag:
+Regulatory Compliance: Governments and regulators can leverage bankruptcy prediction models to monitor and enforce corporate governance standards, reducing systemic risks in the economy.
 
-Question: Can we estimate the selling price of a car based on its features, brand reputation, and market conditions?
+Improved Decision-Making: Companies can use the insights from this model to make data-driven decisions for improving financial health and mitigating operational inefficiencies.
 
-Business Value: A reliable price estimation model helps dealerships to set competitive yet profitable prices based on market trends and car features. This ensures that they are neither underpricing their cars, which can lead to lost revenue, nor overpricing them, which can drive away potential customers.
+#### Value Delivered:
+
+Stakeholder Protection: Protects investors and creditors from unexpected financial losses by providing a reliable bankruptcy risk assessment tool.
+
+Economic Stability: Early identification of financially distressed firms reduces the risk of large-scale corporate failures, contributing to overall economic stability.
+
+Cost Reduction: Automating the bankruptcy prediction process minimizes reliance on extensive manual evaluations, reducing operational costs.
+
+Strategic Planning: Businesses can use the model’s outputs to align their long-term strategies with financial sustainability, ensuring robust growth and avoiding unnecessary risks.
+
+Customizable and Scalable: This model can be adapted for different industries, geographies, and economic conditions, making it a versatile tool for stakeholders.
+By implementing this project, organizations and financial professionals can achieve a higher degree of foresight into potential bankruptcies, saving time, resources, and mitigating risks in their operations.
