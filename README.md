@@ -26,30 +26,84 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 ## :moneybag: Business Case and Value
 
-Corporate bankruptcy prediction is a critical aspect of financial risk management for businesses, investors, and financial institutions. This project aims to provide a robust and interpretable framework for identifying early warning signs of financial distress in companies, enabling stakeholders to make informed decisions.
+Corporate bankruptcy prediction is a critical aspect of financial risk management for businesses, investors, and financial institutions. This project provides a robust and interpretable framework for identifying early warning signs of financial distress in companies, enabling stakeholders to make informed decisions.
+
+
 
 
 
 #### Business Case:
 
-Early Risk Detection: Bankruptcy prediction models can help businesses identify potential financial risks early, allowing for timely interventions and strategic adjustments.
-Investors and lenders can use such models to assess the creditworthiness of companies before extending loans or investing capital.
+- Early Risk Detection:
 
-Efficient Resource Allocation: Financial institutions can prioritize resources for companies showing signs of distress and develop customized support strategies to mitigate potential losses.
+  - Helps businesses and investors identify potential financial risks early, allowing for timely interventions and strategic adjustments.
+  - Enables creditors and lenders to assess the creditworthiness of companies before extending loans or investing capital.
 
-Regulatory Compliance: Governments and regulators can leverage bankruptcy prediction models to monitor and enforce corporate governance standards, reducing systemic risks in the economy.
+- Efficient Resource Allocation:
 
-Improved Decision-Making: Companies can use the insights from this model to make data-driven decisions for improving financial health and mitigating operational inefficiencies.
+  - Financial institutions can prioritize resources for companies showing signs of distress and develop customized support strategies to mitigate potential losses.
 
-#### Value Delivered:
+- Regulatory Compliance:
 
-Stakeholder Protection: Protects investors and creditors from unexpected financial losses by providing a reliable bankruptcy risk assessment tool.
+  - Governments and regulators can use such models to monitor and enforce corporate governance standards, reducing systemic risks in the economy.
 
-Economic Stability: Early identification of financially distressed firms reduces the risk of large-scale corporate failures, contributing to overall economic stability.
+- Improved Decision-Making:
 
-Cost Reduction: Automating the bankruptcy prediction process minimizes reliance on extensive manual evaluations, reducing operational costs.
+  - Companies can leverage insights from the model to improve financial health and mitigate operational inefficiencies.
 
-Strategic Planning: Businesses can use the model’s outputs to align their long-term strategies with financial sustainability, ensuring robust growth and avoiding unnecessary risks.
+#### Value Delivered: 
 
-Customizable and Scalable: This model can be adapted for different industries, geographies, and economic conditions, making it a versatile tool for stakeholders.
-By implementing this project, organizations and financial professionals can achieve a higher degree of foresight into potential bankruptcies, saving time, resources, and mitigating risks in their operations.
+- Stakeholder Protection:
+
+  - Protects investors and creditors from unexpected financial losses through reliable bankruptcy risk assessments.
+
+- Economic Stability:
+
+  - Reduces the risk of large-scale corporate failures, contributing to overall economic stability.
+
+- Cost Reduction:
+
+  - Automates the bankruptcy prediction process, minimizing reliance on manual evaluations and reducing operational costs.
+
+- Strategic Planning:
+
+  - Supports businesses in aligning long-term strategies with financial sustainability, ensuring robust growth.
+
+- Customizable and Scalable:
+
+  - Adaptable for various industries, geographies, and economic conditions, making it a versatile tool.
+
+## Analyses Conducted :mag:
+
+To achieve the project goals, the following analyses were conducted:
+
+### 1. Exploratory Data Analysis (EDA):
+
+Visualized distributions of features and the target variable.
+Identified class imbalance in the dataset.
+Explored correlations between features to uncover potential multicollinearity issues.
+
+### 2. Feature Selection:
+
+Applied statistical and machine learning-based techniques to identify the most relevant features.
+Reduced dimensionality to improve model performance and interoperability.
+
+### 3. Model Training/Testing Without SMOTE:
+
+Trained several classification models (e.g., Logistic Regression, Random Forest, Gradient Boosting) on the original dataset.
+Evaluated models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+
+### 4. Model Training/Testing Without SMOTE (Addressing Class Imbalance):
+
+Applied Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset.
+Retrained the models and compared performance with those trained on the imbalanced dataset.
+
+### 5. Model Evaluation and Selection:
+
+Selected the best-performing model based on evaluation metrics.
+Stored the trained model in the best_model/ directory for future use.
+
+### 6. Report Generation:
+
+Summarized findings and insights in structured reports available in the reports/ directory.
+
