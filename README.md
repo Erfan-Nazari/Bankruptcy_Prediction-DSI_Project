@@ -93,7 +93,7 @@ Reduced dimensionality to improve model performance and interoperability.
 Trained several classification models (e.g., Logistic Regression, Random Forest, Gradient Boosting) on the original dataset.
 Evaluated models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
 
-### 4. Model Training/Testing Without SMOTE (Addressing Class Imbalance):
+### 4. Model Training/Testing With SMOTE (Addressing Class Imbalance):
 
 Applied Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset.
 Retrained the models and compared performance with those trained on the imbalanced dataset.
