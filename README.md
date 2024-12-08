@@ -98,13 +98,13 @@ Reduced dimensionality to improve model performance and interoperability.
 
 ### 3. Model Building and Model Selection:
 
-#### 3.a
+#### 3.a.
 
-#### 3.b Model Training/Testing with Class Weights:
+#### 3.b. Model Training/Testing with Class Weights:
 
 We address the highly imbalanced data using class weights. Trained several machine learning classification models to predict company bankruptcy using financial indicators. Selected the best-performing model based on evaluation metrics.
 
-#### 3.c Model Training/Testing With SMOTE (Addressing Class Imbalance):
+#### 3.c. Model Training/Testing With SMOTE:
 
 Applied Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset. Retrained the models and compared performance. Selected the best-performing model based on evaluation metrics.
 
