@@ -28,9 +28,8 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 - [experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/experiments)
 - [models/](models)
 - [reports/](reports)
-- [src/](src)
 - README.md
-- .gitignore
+
 
 
 
