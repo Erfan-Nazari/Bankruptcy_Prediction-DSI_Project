@@ -9,13 +9,11 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 
 ## Members
-[Erfan Nazari](https://github.com/Erfan-Nazari)
+[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ghotbi](https://github.com/Parisaghotbi), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
 
-[Parisa Ghotbi](https://github.com/Parisaghotbi) 
 
-[Marjan Rajabi](https://github.com/marjanrajabi437)
+## Team Videos
 
-[Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
 
 
 ## Outline
