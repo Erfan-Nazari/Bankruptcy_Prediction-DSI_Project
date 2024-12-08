@@ -1,5 +1,11 @@
 # DSI_Team_Project-Bankruptcy_Prediction: :bar_chart:
 
+## Data Science Institute - Cohort 4 - Team 25 Project
+
+## Members
+[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ghotbi](https://github.com/Parisaghotbi), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
+
+
 This repository contains the implementation of a machine learning project to classify companies as "Bankrupt" or "Not Bankrupt" based on financial indicators. The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction).
 
 ## Project Overview
@@ -8,8 +14,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 
 
-## Members
-[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ghotbi](https://github.com/Parisaghotbi), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
+
 
 
 ## Team Videos
