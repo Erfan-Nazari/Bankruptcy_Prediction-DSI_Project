@@ -18,6 +18,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
 
 
+## Outline
 
 - [data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data)
   - [processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/processed)
