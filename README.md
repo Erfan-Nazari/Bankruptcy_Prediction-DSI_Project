@@ -91,27 +91,24 @@ Visualized distributions of features and the target variable.
 Identified class imbalance in the dataset.
 Explored correlations between features to uncover potential multicollinearity issues.
 
-### 2. Feature Selection:
+### 2. Data Preprocessing and Feature Engineering:
 
 Applied statistical and machine learning-based techniques to identify the most relevant features.
 Reduced dimensionality to improve model performance and interoperability.
 
-### 3. Model Training/Testing Without SMOTE:
+### 3. Model Building and Model Selection:
 
-Trained several classification models (e.g., Logistic Regression, Random Forest, Gradient Boosting) on the original dataset.
-Evaluated models using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC.
+#### 3.a
 
-### 4. Model Training/Testing With SMOTE (Addressing Class Imbalance):
+#### 3.b Model Training/Testing with Class Weights:
 
-Applied Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset.
-Retrained the models and compared performance with those trained on the imbalanced dataset.
+We address the highly imbalanced data using class weights. Trained several machine learning classification models to predict company bankruptcy using financial indicators. Selected the best-performing model based on evaluation metrics.
 
-### 5. Model Evaluation and Selection:
+#### 3.c Model Training/Testing With SMOTE (Addressing Class Imbalance):
 
-Selected the best-performing model based on evaluation metrics.
-Stored the trained model in the best_model/ directory for future use.
+Applied Synthetic Minority Over-sampling Technique (SMOTE) to balance the dataset. Retrained the models and compared performance. Selected the best-performing model based on evaluation metrics.
 
-### 6. Report Generation:
+### 4. Conclusion:
 
-Summarized findings and insights in structured reports available in the reports/ directory.
+Summarized findings.
 
