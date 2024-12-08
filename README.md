@@ -1,6 +1,6 @@
 # DSI_Team_Project-Bankruptcy_Prediction: :bar_chart:
 
-This repository contains the implementation of a machine learning project to classify companies as "Bankrupt" or "Not Bankrupt" based on financial indicators. The dataset used for this project is sourced from Kaggle (https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction).
+This repository contains the implementation of a machine learning project to classify companies as "Bankrupt" or "Not Bankrupt" based on financial indicators. The dataset used for this project is sourced from [Kaggle] (https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction).
 
 ## Project Overview
 The goal of this project is to predict the likelihood of a company's bankruptcy using various financial ratios and indicators. The dataset spans data from 1999 to 2009 and includes 95 features, offering rich insights into financial health and corporate governance.
