@@ -2,7 +2,7 @@
  Data Science Institute - Cohort 4 - Team 25 Project
 
 ## Members
-[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ghotbi](https://github.com/Parisaghotbi), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
+[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ahmadi Ghotbi](https://github.com/Parisaghotbi), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
 
 
 ## Project Overview: Bankruptcy Prediction
