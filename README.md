@@ -22,12 +22,12 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 ## Outline
 
-- [data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data)
-  - [processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/processed)
-  - [raw/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/raw)
-  - [best_model/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/best_model)
-- [experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/experiments)
-- [report/](reports)
+- [1_data/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/1_data)
+  - [1.1_raw/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/1_data/1.1_raw)
+  - [1.2_processed/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/1_data/1.2_processed)
+  - [1.3_best_model/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/1_data/1.3_best_model)
+- [2_experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/2_experiments)
+- [3_reports/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/3_reports)
 - README.md
 
 
