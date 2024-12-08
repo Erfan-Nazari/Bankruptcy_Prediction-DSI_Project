@@ -26,7 +26,6 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
   - [raw/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/raw)
   - [best_model/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/data/best_model)
 - [experiments/](https://github.com/Erfan-Nazari/DSI_Team_Project-Bankruptcy_Prediction/tree/main/experiments)
-- [models/](models)
 - [reports/](reports)
 - README.md
 
