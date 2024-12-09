@@ -17,8 +17,11 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 ## Team Videos
 [Erfan Nazari](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
+
 [Parisa Ahmadi Ghotbi](https://github.com/Parisaghotbi) 
+
 [Marjan Rajabi](https://github.com/marjanrajabi437)
+
 [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
 
 ## Outline
