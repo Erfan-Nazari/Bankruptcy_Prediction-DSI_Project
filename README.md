@@ -99,7 +99,7 @@ Reduced dimensionality to improve model performance and interoperability.
 
 ### 3. Model Building and Model Selection:
 
-#### 3.a. 
+#### 3.a. Base Models:
 In this phase, several machine learning models were trained on the original, imbalanced dataset (without any adjustments to class imbalance). These baseline models include Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), and Multi-Layer Perceptron (MLP). The purpose of training base models is to evaluate the performance of these models in their raw form and assess their ability to deal with the highly imbalanced classes.
 
 #### 3.b. Model Training/Testing with Class Weights:
