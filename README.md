@@ -99,7 +99,8 @@ Reduced dimensionality to improve model performance and interoperability.
 
 ### 3. Model Building and Model Selection:
 
-#### 3.a.
+#### 3.a. 
+In this phase, several machine learning models were trained on the original, imbalanced dataset (without any adjustments to class imbalance). These baseline models include Logistic Regression, Decision Tree, Random Forest, K-Nearest Neighbors (KNN), Support Vector Classifier (SVC), and Multi-Layer Perceptron (MLP). The purpose of training base models is to evaluate the performance of these models in their raw form and assess their ability to deal with the highly imbalanced classes.
 
 #### 3.b. Model Training/Testing with Class Weights:
 
@@ -111,5 +112,9 @@ Applied Synthetic Minority Over-sampling Technique (SMOTE) to balance the datase
 
 ### 4. Conclusion:
 
-Summarized findings.
+This project aimed to predict company bankruptcy using machine learning models trained on financial indicators. We addressed the class imbalance in the dataset using two methods: class weights and SMOTE.
+Random Forest emerged as the best-performing model, consistently outperforming others in both balanced accuracy and ROC-AUC across all approaches.
+MLP showed strong results but lagged behind Random Forest in precision and ROC-AUC.
+Logistic Regression and KNN were reliable models, while SVC struggled with both approaches.
+The findings emphasize the importance of addressing class imbalance to improve model performance, with Random Forest being the most effective model for bankruptcy prediction.
 
