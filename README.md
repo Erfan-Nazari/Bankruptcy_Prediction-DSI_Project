@@ -2,7 +2,7 @@
  Data Science Institute - Team Project
 
 ## Members
-[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ahmadi Ghotbi](https://github.com/Parisaghotbi), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
+[Erfan Nazari](https://github.com/Erfan-Nazari), [Parisa Ahmadi Ghotbi](https://drive.google.com/drive/u/0/folders/1ohpuMN9L6zzIL6QWLQiQwkyvy_MSpcrY), [Marjan Rajabi](https://github.com/marjanrajabi437), [Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
 
 
 ## Project Overview: Bankruptcy Prediction
