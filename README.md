@@ -18,7 +18,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 ## Team Videos
 [Erfan Nazari](https://www.dropbox.com/scl/fi/a3a7udk5uxj715argb27n/Bankruptcy-Prediction-Project.mp4?rlkey=glx5zh4ug4fvlhvgxgalvvzcx&st=qpclavz3&dl=0)
 
-[Parisa Ahmadi Ghotbi](https://drive.google.com/drive/u/0/folders/1ohpuMN9L6zzIL6QWLQiQwkyvy_MSpcrY) 
+[Parisa Ahmadi Ghotbi](https://drive.google.com/file/d/1196ydy8GxgpErVRpmXnPntRMUkYzm3SJ/view?usp=sharing) 
 
 [Marjan Rajabi](https://github.com/marjanrajabi437)
 
