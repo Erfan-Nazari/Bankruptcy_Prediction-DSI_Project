@@ -1,4 +1,4 @@
-# Bankruptcy Prediction
+# Company Bankruptcy Prediction
  Data Science Institute - Team Project
 
 ## Members
