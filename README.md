@@ -22,7 +22,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 [Marjan Rajabi](https://github.com/marjanrajabi437)
 
-[Fatemeh Safaei](https://github.com/Safaei-Fatemeh)
+[Fatemeh Safaei]([https://github.com/Safaei-Fatemeh](https://drive.google.com/file/d/1O80ElOJGn-SrQ-nUSncM3FIxf2ZTIjqk/view?usp=sharing))
 
 ## Outline
 
