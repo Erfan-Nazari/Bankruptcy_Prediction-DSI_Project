@@ -20,7 +20,7 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 
 [Parisa Ahmadi Ghotbi](https://drive.google.com/file/d/1196ydy8GxgpErVRpmXnPntRMUkYzm3SJ/view?usp=sharing) 
 
-[Marjan Rajabi](https://github.com/marjanrajabi437)
+[Marjan Rajabi](https://drive.google.com/file/d/1UiyhZ2ctrMgOoS1IFec9JJNs1ZOrh5uc/view?usp=drive_link)
 
 [Fatemeh Safaei](https://drive.google.com/file/d/1rIBjLQsbSMd91T1tCExFcul6T8O-ngiW/view?usp=sharing)
 
